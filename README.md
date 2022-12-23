@@ -1,7 +1,3 @@
-# 
-exercise
-
-
 # oracle_sql
 ##
 22.12.23~
